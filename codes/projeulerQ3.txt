@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main()
+{
+	int num,maxfact=0;
+	scanf("%d",&num);
+	for(i=0;i<=uplimit;i++)
+	{	
+		if(num%i==0)
+		{
+			uplimit=num/i;
+			if(maxfact<i)
+			maxfact=i;
+		}
+	}
+	printf("%d",maxfact);
+}
