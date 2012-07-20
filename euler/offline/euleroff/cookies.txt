@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-projecteuler.net	TRUE	/	FALSE	1999999999	PHPSESSID	ac6c0cb4b06bd6c39aeeab43575c7735
-
