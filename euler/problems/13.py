@@ -1,0 +1,29 @@
+strlist1=[]
+for line in open("data13.txt").readlines():
+  strlist1.append(line[:-1])
+#print strlist1[3]
+numlist=[]
+index=-1
+for line in strlist1:
+  i=1
+  index+=1
+  numlist.append([])
+  while i<51:
+	numlist[index].append(line[-i])
+	i+=1
+#print numlist
+sum1=0
+ans=[]
+for i in range(50):
+  for j in range(100):
+	sum1+=int(numlist[j][i])
+  ans.append(sum1%10)
+  sum1=sum1/10
+
+while sum1>0:
+  ans.append(sum1%10)
+  sum1/=10
+
+ans.reverse()
+print ans
+#take first 10 elements of ans and submit :)

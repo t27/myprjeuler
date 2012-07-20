@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?><rss version='2.0' xmlns:dc='http://purl.org/dc/elements/1.1/'><channel><title>Project Euler</title><link>http://projecteuler.net</link><description>A website dedicated to the fascinating world of mathematics and programming.</description><language>en</language><copyright>projecteuler.net</copyright><webMaster>noreply@projecteuler.net (Colin Hughes)</webMaster><lastBuildDate>Thu, 28 Jun 2012 19:38:39 GMT</lastBuildDate><ttl>60</ttl>
+<item><title>Problem 391</title><link>http://projecteuler.net/problem=391</link><description>Release date: Sat, 30 Jun 2012, 22:00:00 [Server Time]</description><pubDate>Sat, 30 Jun 2012, 22:00:00 [Server Time]</pubDate><guid>problem_id_391</guid></item>
+<item><title>Summer-break</title><link>http://projecteuler.net/news</link><description><![CDATA[ <p><P>
+Problem #391(Sat, 30 Jun 2012, 10pm GMT) will be the last problem before the summer-break.<BR />
+We will be back  Saturday, September 1st, 2012.<BR />
+Have a nice summer-break (or a nice winter-break, depending on where you live)!
+</P></p> ]]>
+(Sunday 24 June 2012: Summer-break)</description><pubDate>Sun, 24 Jun 2012, 00:00:00 [Server Time]</pubDate><guid>news_id_41</guid></item>
+<item><title>Problem 390</title><link>http://projecteuler.net/problem=390</link><description>Release date: Sat, 23 Jun 2012, 19:00:00 [Server Time]</description><pubDate>Sat, 23 Jun 2012, 19:00:00 [Server Time]</pubDate><guid>problem_id_390</guid></item>
+<item><title>Account Maintenance</title><link>http://projecteuler.net/news</link><description><![CDATA[ <p><p>A facility has been added to bottom of the Account page which allows members to &quot;Reset Progress&quot; (set all problems to unsolved and remove all Awards earned) or to &quot;Delete Account&quot;.</p>
+<p>If you select either radio button then you will be presented with a CAPTCHA and asked to enter a confirmation code before clicking the &quot;Confirm&quot; button. Please be aware that both of these action cannot be undone, so use with extreme caution.</p>
+<p>The PE team would be grateful if any members having multiple accounts which they no longer use might take this opportunity to do a bit of &quot;housekeeping&quot; and remove any unwanted accounts.</p></p> ]]>
+(Sunday 17 June 2012: Account Maintenance)</description><pubDate>Sun, 17 Jun 2012, 00:00:00 [Server Time]</pubDate><guid>news_id_40</guid></item>
+<item><title>Problem 389</title><link>http://projecteuler.net/problem=389</link><description>Release date: Sat, 16 Jun 2012, 16:00:00 [Server Time]</description><pubDate>Sat, 16 Jun 2012, 16:00:00 [Server Time]</pubDate><guid>problem_id_389</guid></item>
+<item><title>Problem 388</title><link>http://projecteuler.net/problem=388</link><description>Release date: Sat, 09 Jun 2012, 13:00:00 [Server Time]</description><pubDate>Sat, 09 Jun 2012, 13:00:00 [Server Time]</pubDate><guid>problem_id_388</guid></item>
+<item><title>Problem 387</title><link>http://projecteuler.net/problem=387</link><description>Release date: Sun, 03 Jun 2012, 10:00:00 [Server Time]</description><pubDate>Sun, 03 Jun 2012, 10:00:00 [Server Time]</pubDate><guid>problem_id_387</guid></item>
+<item><title>Problem 386</title><link>http://projecteuler.net/problem=386</link><description>Release date: Sun, 27 May 2012, 07:00:00 [Server Time]</description><pubDate>Sun, 27 May 2012, 07:00:00 [Server Time]</pubDate><guid>problem_id_386</guid></item>
+<item><title>Problem 385</title><link>http://projecteuler.net/problem=385</link><description>Release date: Sun, 20 May 2012, 04:00:00 [Server Time]</description><pubDate>Sun, 20 May 2012, 04:00:00 [Server Time]</pubDate><guid>problem_id_385</guid></item>
+<item><title>Problem 384</title><link>http://projecteuler.net/problem=384</link><description>Release date: Sun, 13 May 2012, 01:00:00 [Server Time]</description><pubDate>Sun, 13 May 2012, 01:00:00 [Server Time]</pubDate><guid>problem_id_384</guid></item>
+</channel></rss>

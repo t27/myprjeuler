@@ -1,0 +1,8 @@
+http://projecteuler.net/show=all -O "/home/tarang/euler/offline/euleroff" -%v
+File generated automatically on Mon, 16 Jul 2012 11:29:43, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
